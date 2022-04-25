@@ -29,17 +29,24 @@ https://www.buyupside.com/alphavantagelive/searchforsymboluser.php
 ### step 6:
 for each company we took the output from step 3 and appened the highs and lows to match dates
 * since not all the data is there, we used DataFrame option to merge only the matching values and avoid empty cells, 
-we don't knoe the stock market to substite data in any form.
+we don't know the stock market to substite data in any form.
 
 ### Step 7:
-for each company we plotted the high/low grapg and above it the death/confirmed cases. so trends will match
-we used matplotlib functions to do so. 
-we used the trend graph and made each linr diffrent color and line, also added a legend to make grapg clear. 
+for each company we plotted the high/low graph and above it the death/confirmed cases, so that the trends will match.
+we used matplotlib functions to do so (subplot to place them for visual comparison) 
+we used the trend graph and made each line diffrent color and line style, also added a legend to make graph clear. 
 
+************************************************************************************************
+#### List of files:
+1. covid cases - step 3 - 1 file
+2. for each stock indusrty one file -- total 5 files 
+3. death and confirmed covid cases + exported data from 1 to use in 2 - total 3 csv files 
 
-All the used csv, and python are attached !
+##### total 9 files 
+************************************************************************************************
 
 Thank you, 
- Diana , Juliet , Vivek
+
+Diana , Juliet , Vivek
 
 
