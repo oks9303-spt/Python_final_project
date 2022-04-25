@@ -1,13 +1,13 @@
 # Python_final_project
-#team member Diana , Juliet , Vivek
+#Team members: Diana , Juliet , Vivek
 
 Work process: 
 
 ### step 1: Git repository set 
 
-### Step 2: downloaded both csv 
+### Step 2: Downloaded both CSVs from the provided URLs
 
-### Step 3:use pandas 
+### Step 3: Used Pandas 
 to create dataframe and aggreagate and sum of death and cases ( one table - 2 columns)
 
 ### Step 4: stock market research
