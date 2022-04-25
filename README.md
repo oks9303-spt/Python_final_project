@@ -20,7 +20,7 @@ Work process:
 
 5. Travel sector : BKNG -  Booking Holdings Inc
 
-### step 5: 
+### Step 5: 
 We obtained tickers for various companies listed in an Excel file for companies in the stock exchange worldwide. Then
 we checked on this page https://www.buyupside.com/alphavantagelive/searchforsymboluser.php if the stock's symbol has an
 AlphaVantage api.
